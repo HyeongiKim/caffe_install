@@ -87,6 +87,11 @@ Check version
 
     pkg-config --modversion opencv
 
+If version is 2.4.9.1, remove past opencv2.4
+
+    sudo apt-get autoremove opencv-doc opencv-data libopencv-dev libopencv2.4-java libopencv2.4-jni python-opencv libopencv-core2.4 libopencv-gpu2.4 libopencv-ts2.4 libopencv-photo2.4 libopencv-contrib2.4 libopencv-imgproc2.4 libopencv-superres2.4 libopencv-stitching2.4 libopencv-ocl2.4 libopencv-legacy2.4 libopencv-ml2.4 libopencv-video2.4 libopencv-videostab2.4 libopencv-objdetect2.4 libopencv-calib3d2.4
+
+
 ##References
 
 1. http://blog.daum.net/_blog/BlogTypeView.do?blogid=0fjLE&articleno=28&categoryId=7&regdt=20161224170447
