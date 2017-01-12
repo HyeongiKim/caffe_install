@@ -40,4 +40,8 @@ Restart your computer
 
 Go to https://developer.nvidia.com/cuDNN
 
+##References
 
+1. http://blog.daum.net/_blog/BlogTypeView.do?blogid=0fjLE&articleno=28&categoryId=7&regdt=20161224170447
+
+2. http://www.whydsp.org/316
